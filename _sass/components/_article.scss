@@ -35,4 +35,26 @@
   ul, ol {
     margin-left: 40px;
   }
+
+  li {
+    margin-bottom: 2rem;
+  }
+
+  p, ul, ol {
+    margin-bottom: 4rem;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: "IM Fell English";
+    margin-bottom: 0.2rem;
+  }
+}
+
+
+.layout__gallery img {
+  width: 150px;
+  height: 150px;
+  margin: 0 10px 10px 0;
+  box-shadow: 0 0 3px #333;
+  border-radius: 4px;
 }
